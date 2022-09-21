@@ -1,1 +1,1 @@
-# demo-github2 on github
+# demo-github2
